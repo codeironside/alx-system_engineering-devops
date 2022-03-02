@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+#!/bin/bash
+>>>>>>> 7f3f71c6a692ff30073ea0190cba9bd00beb4f24
 ls -al

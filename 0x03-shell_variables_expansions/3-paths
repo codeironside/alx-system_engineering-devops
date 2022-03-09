@@ -1,3 +1,2 @@
-echo 6
-
-© 2022 GitHub, Inc.
+#!/bin/bash
+echo $((`echo $PATH | grep -o ":/" | wc -l`+ 1))
